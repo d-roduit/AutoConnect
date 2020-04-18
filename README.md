@@ -2,6 +2,8 @@
 
 AutoConnect is a simple Python application created to make my life easier. It allows quick connection to Facebook or Instagram from a single button.
 
+<img src="./autoConnect_screenshot.png" alt="AutoConnect_screenshot" width="250" height="222">
+
 ## Project Status
 > Last updated on April 18, 2020 :warning:
 
@@ -24,7 +26,7 @@ The **AutoConnect** application relies on 2 dependencies :
 
 The **InternetBot** class also relies on 2 dependencies :
 1. [The Selenium library](https://selenium-python.readthedocs.io/)
-2. the Python [os module](https://docs.python.org/3/library/os.html)
+2. The Python [os module](https://docs.python.org/3/library/os.html)
 
 ## Author
 
@@ -32,4 +34,4 @@ The **InternetBot** class also relies on 2 dependencies :
 
 ## Application icon / Logo
 
-![alt text](./autoConnect.ico "AutoConnect logo")
+<img src="./autoConnect.ico" alt="AutoConnect_logo" width="100" height="100">
