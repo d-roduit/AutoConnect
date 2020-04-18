@@ -12,9 +12,10 @@ AutoConnect is a simple Python application created to make my life easier. It al
 A few requirements are to noted before being able to use this application.
 
 1. Python *(3.7 or higher)* must be installed on your machine.
-2. The webdrivers of the browser you want to use (Chrome / Firefox) must be added to the PATH.<br>To add the webdriver to the PATH, consult the following page: [Driver requirements](https://www.selenium.dev/documentation/en/webdriver/driver_requirements/)
-3. Your own credentials must be put in the `credentials.py` file if you want to be able to connect to Facebook or Instagram automatically via the application.
-4. You're good to go !!
+2. Selenium must be downloaded *(when you have Python installed, run `pip install selenium` in your terminal to download it)*.
+3. The webdrivers of the browser you want to use (Chrome / Firefox) must be added to the PATH.<br>To add the webdriver to the PATH, consult the following page: [Driver requirements](https://www.selenium.dev/documentation/en/webdriver/driver_requirements/)
+4. Your own credentials must be put in the `credentials.py` file if you want to be able to connect to Facebook or Instagram automatically via the application.
+5. You're good to go !!
 
 🎉 You can now launch the application via your terminal or Python's IDLE.
 
