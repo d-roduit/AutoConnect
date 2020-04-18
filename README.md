@@ -16,10 +16,20 @@ A few requirements are to noted before being able to use this application.
 
 🎉 You can now launch the application via your terminal or Python's IDLE.
 
-## Authors
+## How AutoConnect works under the hood ?
+
+The **AutoConnect** application relies on 2 dependencies :
+1. The InternetBot class : A class I created to ease the use of [Selenium](https://selenium-python.readthedocs.io/).
+2. [tkinter](https://wiki.python.org/moin/TkInter) :  Python's standard GUI package.
+
+The **InternetBot** class also relies on 2 dependencies :
+1. [The Selenium library](https://selenium-python.readthedocs.io/)
+2. the Python [os module](https://docs.python.org/3/library/os.html)
+
+## Author
 
 👱 [Daniel Roduit](https://www.linkedin.com/in/daniel-roduit/)
 
-## Logo
+## Application icon / Logo
 
 ![alt text](./autoConnect.ico "AutoConnect logo")
