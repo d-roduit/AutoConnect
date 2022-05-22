@@ -1,17 +1,17 @@
 <div align="center">
 <br/>
 <a href="https://github.com/d-roduit/AutoConnect">
-<img src="readme_pictures/AutoConnect_Logo.png" align="center" width="20%" alt="AutoConnect Logo">
+<img src="readme_pictures/AutoConnect_Logo.ico" align="center" width="10%" alt="AutoConnect Logo">
 </a>
 
 #
 
-<p align="center"><strong>AutoConnect is a simple Python application created to make my life easier. It allows quick connection to Facebook or Instagram from a single button</strong></p>
+<p align="center"><strong>AutoConnect is a simple Python application created to make my life easier.<br/>It allows quick connection to Facebook or Instagram from a single button</strong></p>
 </div>
 
 <div align="center">
 <a href="https://github.com/d-roduit/AutoConnect">
-<img src="readme_pictures/AutoConnect_screenshot.png" align="center" width="80%" alt="AutoConnect screenshot">
+<img src="readme_pictures/AutoConnect_screenshot.png" align="center" width="30%" alt="AutoConnect screenshot">
 </a>
 </div>
 <br/>
@@ -35,9 +35,8 @@ You will need to follow the steps below in order to run the application :
 2. Selenium must be downloaded *(when you have Python installed, run `pip install selenium` in your terminal to download it)*.
 3. The webdrivers of the browser you want to use (Chrome / Firefox) must be added to the PATH.<br>To add the webdriver to the PATH, consult the following page: [Driver requirements](https://www.selenium.dev/documentation/en/webdriver/driver_requirements/)
 4. Your own credentials must be put in the `credentials.py` file if you want to be able to connect to Facebook or Instagram automatically via the application.
-5. You're good to go !!
 
-🎉 You can now launch the application via your terminal or Python's IDLE.
+🎉 You're good to go ! You can now launch the application via your terminal or Python's IDLE.
 
 ## <a name="technologies"></a>Technologies
 
